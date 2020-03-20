@@ -1,0 +1,10 @@
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.deps.json
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.csprojAssemblyReference.cache
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfoInputs.cache
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.AssemblyInfo.cs
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.dll
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\obj\Debug\netcoreapp3.1\ClassLibraryNetCore.pdb
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.json
+C:\Users\Florinex\source\repos\ClassLibraryNetCore\ClassLibraryNetCore\bin\Debug\netcoreapp3.1\ClassLibraryNetCore.runtimeconfig.dev.json

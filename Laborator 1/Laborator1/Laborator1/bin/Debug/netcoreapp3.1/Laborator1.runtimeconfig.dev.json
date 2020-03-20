@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Florinex\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Florinex\\.nuget\\packages"
+    ]
+  }
+}

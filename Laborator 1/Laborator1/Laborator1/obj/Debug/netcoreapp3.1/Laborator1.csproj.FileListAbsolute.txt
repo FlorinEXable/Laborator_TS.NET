@@ -1,0 +1,11 @@
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\bin\Debug\netcoreapp3.1\Laborator1.exe
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\bin\Debug\netcoreapp3.1\Laborator1.deps.json
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\bin\Debug\netcoreapp3.1\Laborator1.runtimeconfig.json
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\bin\Debug\netcoreapp3.1\Laborator1.runtimeconfig.dev.json
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\bin\Debug\netcoreapp3.1\Laborator1.dll
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\bin\Debug\netcoreapp3.1\Laborator1.pdb
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\obj\Debug\netcoreapp3.1\Laborator1.csprojAssemblyReference.cache
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\obj\Debug\netcoreapp3.1\Laborator1.AssemblyInfoInputs.cache
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\obj\Debug\netcoreapp3.1\Laborator1.AssemblyInfo.cs
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\obj\Debug\netcoreapp3.1\Laborator1.dll
+C:\Users\Florinex\source\repos\Laborator1\Laborator1\obj\Debug\netcoreapp3.1\Laborator1.pdb
