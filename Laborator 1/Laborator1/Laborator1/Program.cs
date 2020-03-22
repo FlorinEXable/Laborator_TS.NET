@@ -1,10 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace Laborator1
 {
     public class Subp
     {
+        public static String GetTimestamp(DateTime value)
+        {
+            return value.ToString("HH:mm:ss:ms");
+        }
         public static bool prim1(int valoare)
         {
             if (valoare <= 1)
@@ -49,24 +54,43 @@ namespace Laborator1
             return 0;
         }
     }
+
     public class ExThread
     {
+        static int nr_dat = 54;
+        public static List<string> lista = new List<string>();
+        Subp subprogram = new Subp();
         public static void thread1()
         {
-            
+            int nr_prim;
+            lista.Add("Start fir: 1, TimeStamp: " + Subp.GetTimestamp(DateTime.Now) + " Numarul natural dat: " + nr_dat);
+            nr_prim = Subp.cel_mai_mare_prim1(54);
+            lista.Add("End fir: 1, TimeStamp: " + Subp.GetTimestamp(DateTime.Now) + " Numarul prim: " + nr_prim);
+
+
         }
         public static void thread2()
         {
-
+            int nr_prim;
+            lista.Add("Start fir: 2, TimeStamp: " + Subp.GetTimestamp(DateTime.Now) + " Numarul natural dat: " + nr_dat);
+            nr_prim = Subp.cel_mai_mare_prim2(54);
+            lista.Add("End fir: 2, TimeStamp: " + Subp.GetTimestamp(DateTime.Now) + " Numarul prim: " + nr_prim);
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Subp s = new Subp();
-            int numar = 70;
-            var lista = new List<String>();
+            Thread a = new Thread(ExThread.thread1);
+            Thread b = new Thread(ExThread.thread2);
+            a.Start();
+            b.Start();
+            a.Join();
+            b.Join();
+            foreach(var s in ExThread.lista)
+            {
+                Console.WriteLine(s);
+            }
         }
     }
 }
