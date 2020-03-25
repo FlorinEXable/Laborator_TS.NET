@@ -1,0 +1,17 @@
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\HostWCF.exe.config
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\HostWCF.exe
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\HostWCF.pdb
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\PostComment.dll
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\EntityFramework.dll
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\PostComment.pdb
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\PostComment.dll.config
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\EntityFramework.xml
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\obj\Debug\HostWCF.exe
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\obj\Debug\HostWCF.pdb
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\ObjectWCF.dll.config
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\HostWCF\bin\Debug\EntityFramework.SqlServer.xml
