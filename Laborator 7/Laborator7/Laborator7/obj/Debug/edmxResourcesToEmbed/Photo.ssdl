@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Photo.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="PhotoStoreContainer">
+    <EntitySet Name="Photos" EntityType="Photo.Store.Photos" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Photos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Cale" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="DataCreare" Type="datetime" Nullable="true" />
+    <Property Name="Eveniment" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Persoane" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Loc" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Peisaj" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Sters" Type="nvarchar(max)" Nullable="true" />
+  </EntityType>
+</Schema>

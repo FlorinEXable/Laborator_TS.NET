@@ -1,0 +1,11 @@
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\bin\Debug\Laborator7.dll
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\bin\Debug\Laborator7.pdb
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\bin\Debug\Laborator7.dll.config
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\Florinex\source\repos\Laborator7\ObjectWCF\obj\Debug\ObjectWCF.pdb

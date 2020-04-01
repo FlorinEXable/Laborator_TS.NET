@@ -1,0 +1,14 @@
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\Host.exe.config
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\Host.exe
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\Host.pdb
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\ObjectWCF.dll
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\Laborator7.dll
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\EntityFramework.dll
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\ObjectWCF.pdb
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\Laborator7.pdb
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\Laborator7.dll.config
+C:\Users\Florinex\source\repos\Laborator7\Host\bin\Debug\EntityFramework.xml
+C:\Users\Florinex\source\repos\Laborator7\Host\obj\Debug\Host.csprojAssemblyReference.cache
+C:\Users\Florinex\source\repos\Laborator7\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\Florinex\source\repos\Laborator7\Host\obj\Debug\Host.exe
+C:\Users\Florinex\source\repos\Laborator7\Host\obj\Debug\Host.pdb

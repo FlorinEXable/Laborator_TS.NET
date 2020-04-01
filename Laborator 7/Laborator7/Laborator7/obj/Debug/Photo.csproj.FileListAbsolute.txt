@@ -1,0 +1,11 @@
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\bin\Debug\Laborator7.dll.config
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\bin\Debug\Laborator7.dll
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\bin\Debug\Laborator7.pdb
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\bin\Debug\EntityFramework.dll
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\bin\Debug\EntityFramework.xml
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\obj\Debug\Photo.csprojAssemblyReference.cache
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\obj\Debug\Photo.csproj.CopyComplete
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\obj\Debug\Laborator7.dll
+C:\Users\Florinex\source\repos\Laborator7\Laborator7\obj\Debug\Laborator7.pdb

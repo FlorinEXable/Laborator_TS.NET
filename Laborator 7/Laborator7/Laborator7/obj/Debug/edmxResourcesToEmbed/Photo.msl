@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PhotoStoreContainer" CdmEntityContainer="PhotoContainer">
+    <EntitySetMapping Name="Photos">
+      <EntityTypeMapping TypeName="IsTypeOf(Photo.Photo)">
+        <MappingFragment StoreEntitySet="Photos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Cale" ColumnName="Cale" />
+          <ScalarProperty Name="DataCreare" ColumnName="DataCreare" />
+          <ScalarProperty Name="Eveniment" ColumnName="Eveniment" />
+          <ScalarProperty Name="Persoane" ColumnName="Persoane" />
+          <ScalarProperty Name="Loc" ColumnName="Loc" />
+          <ScalarProperty Name="Peisaj" ColumnName="Peisaj" />
+          <ScalarProperty Name="Sters" ColumnName="Sters" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
