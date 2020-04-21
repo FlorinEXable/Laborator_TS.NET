@@ -1,0 +1,8 @@
+Fata de proiectul 1, in proiectul 2 avem urmatoarele modificari:
+-Contextul bazei de date are lazyloading si proxycreation dezactivat.
+-In Photo.cs cream un DataContract si adaugam la el fiecare variabila fiind un membru.
+
+
+Subsemnatul Iavorschi M.O. Florin declar pe propria raspundere ca acest cod nu a fost copiat din Internet sau din alte
+surse. Pentru documentare am folosit urmatoarele surse:
+- Link: https://docs.microsoft.com/en-us/dotnet/
