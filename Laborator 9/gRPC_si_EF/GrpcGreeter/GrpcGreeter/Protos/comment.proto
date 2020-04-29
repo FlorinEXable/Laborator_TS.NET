@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcGreeter";
+
+package greet;
+
+service Comment {
+  rpc GetCommentInfo (CommentLookupModel) returns (CommentModel) {}
+}
+
+
+message CommentLookupModel {
+  int32 commentId = 1;
+}
+
+message CommentModel {
+  string text = 1;
+  int32 postId = 2;
+}
