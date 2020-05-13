@@ -1,0 +1,14 @@
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\obj\Debug\Client.Form1.resources
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\bin\Debug\Client.exe.config
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\bin\Debug\Client.exe
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\bin\Debug\Client.pdb
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\obj\Debug\Client.exe
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\obj\Debug\Client.pdb
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\bin\Debug\EntityFramework.dll
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\bin\Debug\EntityFramework.xml
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Florinex\source\repos\WCFsiEF_PostComment\Client\obj\Debug\Client.csproj.CopyComplete
