@@ -1,0 +1,53 @@
+﻿@page
+@model Web.Pages.Photos.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Index</h1>
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Cale)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].DataCreare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Eveniment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Loc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Persoane)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Photos)
+        {
+            <tr style="font-size:small">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cale)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataCreare)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Eveniment)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Loc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Persoane)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
