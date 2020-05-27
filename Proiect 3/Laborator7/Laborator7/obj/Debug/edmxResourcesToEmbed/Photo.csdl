@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Photo" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="PhotoContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Photos" EntityType="Photo.Photo" />
+  </EntityContainer>
+  <EntityType Name="Photo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cale" Type="String" Nullable="false" />
+    <Property Name="DataCreare" Type="DateTime" Nullable="true" />
+    <Property Name="Eveniment" Type="String" Nullable="true" />
+    <Property Name="Persoane" Type="String" Nullable="true" />
+    <Property Name="Loc" Type="String" Nullable="true" />
+    <Property Name="Peisaj" Type="String" Nullable="true" />
+    <Property Name="Sters" Type="String" Nullable="true" />
+  </EntityType>
+</Schema>

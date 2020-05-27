@@ -1,0 +1,75 @@
+﻿@page "{searchString?}"
+@model Web.Pages.Photos.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Index</h1>
+<form>
+    <p>
+        <select asp-for="Caracteristica">
+            <option value="All">All</option>
+            <option value="Cale">Cale</option>
+            <option value="Data Creare">Data Creare</option>
+            <option value="Eveniment">Eveniment</option>
+            <option value="Loc">Loc</option>
+            <option value="Persoane">Persoane</option>
+        </select>
+        Termen de cautare: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+<form>
+    <p>
+        Numar de poze: <input type="text" asp-for="NumarPoze" />
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Poza
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Cale)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].DataCreare)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Eveniment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Loc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Persoane)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Photos)
+        {
+            <tr style="font-size:small">
+                <td>
+                    <img src=@Html.DisplayFor(modelItem => item.Sters) width="300" height="300" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cale)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataCreare)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Eveniment)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Loc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Persoane)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
